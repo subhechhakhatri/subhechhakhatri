@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Subhechha! 👋
 
-<!--
-**subhechhakhatri/subhechhakhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Business Analyst | Data Enthusiast
 
-Here are some ideas to get you started:
+I work with R, Power BI, and SQL to explore datasets, build visualizations, and support data-driven decision-making by transforming data into actionable insights .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Data Analysis**: R, SQL
+- **Visualization**: Power BI
+- **Statistical Analysis**: Exploratory Data Analysis, Data Modeling
+
+---
+
+## Projects
+
+### R Projects
+- **[NYC Subway Performance - Exploratory Data Analysis](https://github.com/subhechhakhatri/NYC-Subway-Performance-EDA)**: Analyzing transit data to uncover performance patterns and insights
+
+### Power BI Projects
+
+
+### SQL Projects
+
+
+---
+
+### Let's Connect
+Feel free to reach out if you'd like to collaborate or discuss data analytics!
+- [Linkedin](https://www.linkedin.com/in/subhechhakhatri/)
+- [Email](mailto:skhat6@unh.newhaven.edu)
+
+
