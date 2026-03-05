@@ -15,17 +15,17 @@ I turn messy, complex data into clear decisions. Currently pursuing my **M.S. in
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
-### 🚗 Traffic Volume Forecasting — Baregg Tunnel, Switzerland
+### Traffic Volume Forecasting — Baregg Tunnel, Switzerland
 > Full time-series workflow in R (fpp3/fable). Benchmarked Naïve vs. TSLM models on 2 years of daily vehicle data. TSLM cut MAPE from **13.1%** to well below benchmark. Full residual diagnostics + professional decision-maker report.
 
-### 🍷 Exponential Smoothing — Australian Wine Sales
+### Exponential Smoothing — Australian Wine Sales
 > Analyzed 15 years of monthly retail data. Compared 4 ETS models (SNAIVE, Holt-Winters Additive, Multiplicative, Damped). Validated with Ljung-Box test. Delivered deployment recommendation in publication-ready format.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```
 Languages   →  SQL (T-SQL) · Python · R
@@ -35,12 +35,6 @@ Forecasting →  ARIMA · SARIMA · ETS · TSLM · Regression · STL Decompositi
 Others      →  Excel (Advanced) · Visual Studio · Google Analytics
 ```
 
----
-
-## 📬 Let's Connect
-
-- 📧 subhechhakhatri@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/subhechhakhatri)
 
 ---
 
