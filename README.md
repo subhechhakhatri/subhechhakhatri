@@ -1,44 +1,14 @@
 # Hi, I'm Subhechha! 👋
 
-### Business Analyst · Data Storyteller · Forecasting Enthusiast
+I'm a recent graduate in Business Analytics from University of New Haven, focused on business intelligence, analytics, and statistical forecasting.
 
-I turn messy, complex data into clear decisions. Currently pursuing my **M.S. in Business Analytics** at the University of New Haven (Dec 2026), I specialize in time-series forecasting, BI dashboarding, and end-to-end analytics workflows from raw SQL to executive-ready insights.
+I enjoy turning messy, multi-source data into structured insights — whether that's building production-ready dashboards in Tableau, Power BI, or Domo, or developing time series forecasting models in R and Python that stakeholders can actually act on.
+What I work with:
 
----
-
-## What I Do
-
-- **Forecast** — ARIMA, SARIMA, ETS (Holt-Winters), TSLM, regression-based time-series models in R
-- **Analyze** — SQL, Python, Excel; full ETL pipelines and data warehouse design
-- **Visualize** — Tableau, Power BI, Domo, Looker Studio, Google Analytics
-- **Communicate** — I don't just build models. I write reports that decision-makers actually use.
-
----
-
-## Featured Projects
-
-### Traffic Volume Forecasting — Baregg Tunnel, Switzerland
-> Full time-series workflow in R (fpp3/fable). Benchmarked Naïve vs. TSLM models on 2 years of daily vehicle data. TSLM cut MAPE from **13.1%** to well below benchmark. Full residual diagnostics + professional decision-maker report.
-
-### Exponential Smoothing — Australian Wine Sales
-> Analyzed 15 years of monthly retail data. Compared 4 ETS models (SNAIVE, Holt-Winters Additive, Multiplicative, Damped). Validated with Ljung-Box test. Delivered deployment recommendation in publication-ready format.
-
----
-
-## Tech Stack
-
-```
-Languages   →  SQL (T-SQL) · Python · R
-BI Tools    →  Power BI · Tableau · Domo · Looker Studio · SSRS
-Databases   →  SQL Server · SSMS · SSIS · SSAS · OLAP · Data Warehousing
-Forecasting →  ARIMA · SARIMA · ETS · TSLM · Regression · STL Decomposition
-Others      →  Excel (Advanced) · Visual Studio · Google Analytics
-```
-
-
----
-
-*"Data is only as powerful as the story it tells."*
+## Languages: R (tidyverse, ggplot2, Shiny, fpp3) · Python (pandas, NumPy, scikit-learn) · SQL (PostgreSQL, T-SQL)
+## BI & Visualization: Tableau · Power BI · Domo · R Shiny · SSRS
+## Modeling: ARIMA · ETS · Holt-Winters · STL Decomposition · Regression · Hypothesis Testing
+## Data Engineering: SSIS · SSAS 
 
 
 ---
