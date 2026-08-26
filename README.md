@@ -1,25 +1,19 @@
-# Hi, I'm Subhechha! 👋
 
-I'm a recent graduate in Business Analytics from University of New Haven, focused on business intelligence, analytics, and statistical forecasting.
+# Hi, I'm Subhechha
 
-I enjoy turning messy, multi-source data into structured insights — whether that's building production-ready dashboards in Tableau, Power BI, or Domo, or developing time series forecasting models in R and Python that stakeholders can actually act on.
-What I work with:
+I work at the intersection of business and data, turning messy, multi-source data into clear insights that help make better decisions. 
+From warehousing and preparing data to exploratory analytics, forecasting, and dashboards, I build what you can actually rely on to make decisions.
 
-### Languages: 
-R (tidyverse, ggplot2, Shiny, fpp3) · Python (pandas, NumPy, scikit-learn) · SQL (PostgreSQL, T-SQL)
-### BI & Visualization: 
-Tableau · Power BI · Domo · R Shiny · SSRS
-### Modeling: 
-ARIMA · ETS · Holt-Winters · STL Decomposition · Regression · Hypothesis Testing
-### Data Engineering: 
-SSIS · SSAS 
+On the technical side, I build in SQL for data modeling and warehousing, Power BI and Tableau for dashboarding, and R and Python for statistical and forecasting work using regression and hypothesis testing, along with time-series models such as ARIMA, ETS, and Holt-Winters. 
 
+This repo holds projects across BI, warehousing, and analytics in R, Python, and SQL, plus a full-stack build in progress. 
+
+## Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/subhechhakhatri/)
+- [Email](mailto:subhechhakhatri@gmail.com)
 
 ---
 
-### Let's Connect
-Feel free to reach out if you'd like to collaborate or discuss data analytics!
-- [Linkedin](https://www.linkedin.com/in/subhechhakhatri/)
-- [Email](mailto:subhechhakhatri@gmail.com)
 
 
