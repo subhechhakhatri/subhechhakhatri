@@ -1,6 +1,6 @@
 # Behind every business question is a data story waiting to be uncovered.
 
-Hi, I'm Subhechha (Sue)!
+## Hi, I'm Subhechha (Sue)!
 
 I work at the intersection of business and data, turning messy, multi-source data into clear business insights. 
 
