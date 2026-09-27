@@ -1,14 +1,16 @@
-# Behind every business question is a data story waiting to be uncovered.
+# Business Analytics | Marketing Analytics | Turning data into insights, decisions, and opportunities.
+
 
 ## Hi, I'm Subhechha (Sue)!
 
-I work at the intersection of business and data, turning messy, multi-source data into clear business insights. 
+Businesses generate data every day. I’m interested in figuring out what it is saying.
 
-With an MBA focused on Marketing and an MS in Business Analytics, I found my interest in understanding the why behind customer behavior, markets, and business decisions, and using data to uncover it. 
+With an MBA in Marketing and an MS in Business Analytics, I bring a business-first perspective to data—combining an understanding of customers, markets, and business problems with the analytical tools needed to investigate them.
 
-On the technical side, I use SQL for data modeling and warehousing, Power BI and Tableau for dashboarding, and R and Python for statistical analysis and forecasting. 
+I use SQL, R, Python, Excel, Power BI, and Tableau to clean, structure, analyze, visualize, and model data. My projects range from messy-data preparation and business intelligence to statistical analysis, forecasting, and predictive modeling.
 
-This repo holds projects across BI, warehousing, and analytics in R, Python, and SQL, plus a full-stack build in progress. 
+This repository documents my work as I build toward a career in analytics—one business question, dataset, and model at a time.
+
 
 ## Let's connect
 
